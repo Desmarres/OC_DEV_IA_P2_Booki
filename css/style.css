@@ -259,12 +259,12 @@ h1 {
 
 .hebergements-cards a {
     margin-top: 30px;
+    width: 30%;
 }
 
 .hebergements-cards .card {
     display: flex;
     flex-direction: column;
-    width: 250px;
     height: 210px;
     border-radius: 20px;
 }
